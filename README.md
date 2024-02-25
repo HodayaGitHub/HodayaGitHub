@@ -5,7 +5,7 @@
  🔭 I am currently enhancing one of my major projects - a web application and online marketplace that seamlessly connects travelers with unique accommodations, providing a diverse range of lodging options hosted by individuals from around the world.
  <br/>[Journey (airbnb)](https://journey-ek1u.onrender.com/)
 
-🌱 I'm currently learning and expanding my expertise in Vue and Angular, eager to deepen my understanding and apply newfound skills to innovative projects. **React, Vue, Angular**
+🌱 I'm currently learning and expanding my expertise in Vue and Angular, eager to deepen my understanding and apply newfound skills to innovative projects.
 
 📧 Appsus - combines Gmail for communication, Note for quick notes, and Books for managing your reading list in a single, streamlined platform, simplifying your daily productivity. 
 <br/>[Appsus (Gmail,Note,Books)](https://hodayagithub.github.io/Appsus/)
