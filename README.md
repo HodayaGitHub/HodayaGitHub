@@ -16,21 +16,25 @@
 👨‍💻 All of my projects are available at [https://hodayaovadia.onrender.com/](https://hodayaovadia.onrender.com/)
 </p>
 
+##
+<br/>
 
 ## 🌐 Contact Me:
 <p>
   
-<a href="https://linkedin.com/in/hodaya-ovadia" target="blank" style="text-decoration: none;">
+<span href="https://linkedin.com/in/hodaya-ovadia" target="blank" style="text-decoration: none;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hodaya-ovadia" height="30" width="40" />
-</a>
+</span>
   
-  <a href="mailto:DevHodaya@gmail.com" target="_blank" style="text-decoration: none;">
+  <span href="mailto:DevHodaya@gmail.com" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail" height="40" width="40" />
-  </a>
+  </span>
   
 </p>
 
 #
+<br/>
+
 # 💻 Tech Stack:
 <p align="center" "text-decoration: none">
   
@@ -113,6 +117,7 @@
 </p>
 
 #
+<br/>
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=hodayagithub&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
@@ -120,6 +125,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hodayagithub&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hodayagithub&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
+##
+<br/>
 
 ## 🔄 Random Dev Giggles: Code Edition 😹
 <p align="center">
