@@ -18,7 +18,7 @@
 🌱 I am currently learning and expanding my expertise in **Vue and Angular**, eager to deepen my understanding and apply newfound skills to innovative projects.
 <br/>
 
-👨‍💻 **All of my projects are available at [https://hodayaovadia.onrender.com/](https://hodayaovadia.onrender.com/)**
+👨‍💻 **All of my projects are available at [My portfolio](https://hodayaovadia.onrender.com/)**
 
 </div>
 
