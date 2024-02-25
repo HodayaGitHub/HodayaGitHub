@@ -5,13 +5,14 @@
  🔭 I am currently enhancing one of my major projects - a web application and online marketplace that seamlessly connects travelers with unique accommodations, providing a diverse range of lodging options hosted by individuals from around the world.
  <br/>[Journey (airbnb)](https://journey-ek1u.onrender.com/)
 
-🌱 I'm currently learning and expanding my expertise in Vue and Angular, eager to deepen my understanding and apply newfound skills to innovative projects.
-
 📧 Appsus - combines Gmail for communication, Note for quick notes, and Books for managing your reading list in a single, streamlined platform, simplifying your daily productivity. 
 <br/>[Appsus (Gmail,Note,Books)](https://hodayagithub.github.io/Appsus/)
 
 🧸 Mr.Toy - a handcrafted experience built entirely from scratch, harmonizing robust frontend with backend excellence. Powered by MongoDB and adorned with the versatility of React, our digital toy haven promises a delightful journey for every visitor.
 <br/>[Mr.Toy](https://mrtoy-m60g.onrender.com/)
+
+🌱 I'm currently learning and expanding my expertise in Vue and Angular, eager to deepen my understanding and apply newfound skills to innovative projects.
+
 
 👨‍💻 All of my projects are available at [https://hodayaovadia.onrender.com/](https://hodayaovadia.onrender.com/)
 </p>
