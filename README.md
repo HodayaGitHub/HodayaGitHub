@@ -15,6 +15,9 @@
 📧 **Appsus** - combines Gmail for communication, Note for quick notes, and Books for managing your reading list in a single, streamlined platform, simplifying your daily productivity. [Appsus (Gmail,Note,Books)](https://hodayagithub.github.io/Appsus/)
 <br/>
 
+🎮 **Monsters Sweeper** - a captivating Minesweeper game with a monstrous twist, built to challenge your strategic skills. [Monsters Sweeper](https://hodayagithub.github.io/MineSweeper/)
+<br/>
+
 🌱 I am currently learning and expanding my expertise in **Vue and Angular**, eager to deepen my understanding and apply newfound skills to innovative projects.
 <br/>
 
