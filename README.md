@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, World! I'm Hodaya 👋, A passionate Full-Stack developer ✨
+# Hello, World! I'm Hodaya 👋<br/>A passionate Full-Stack developer ✨
 
  🔭 I am currently enhancing one of my major projects - a web application and online marketplace that seamlessly connects travelers with unique accommodations, providing a diverse range of lodging options hosted by individuals from around the world.
  [Journey (airbnb)](https://journey-ek1u.onrender.com/)
