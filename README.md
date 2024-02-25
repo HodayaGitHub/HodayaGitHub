@@ -16,7 +16,6 @@
 👨‍💻 All of my projects are available at [https://hodayaovadia.onrender.com/](https://hodayaovadia.onrender.com/)
 </p>
 
-##
 <br/>
 
 ## 🌐 Contact Me:
@@ -32,7 +31,6 @@
   
 </p>
 
-#
 <br/>
 
 # 💻 Tech Stack:
@@ -121,11 +119,9 @@
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=hodayagithub&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-<br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hodayagithub&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hodayagithub&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
-##
 <br/>
 
 ## 🔄 Random Dev Giggles: Code Edition 😹
