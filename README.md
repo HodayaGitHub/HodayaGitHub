@@ -137,4 +137,14 @@
 <p align="center">
   <img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Random Dev Meme"/>
 </p>
+
+## 👩‍🏫 Fun fact 
+**Did you know that my journey into the world of tech started with a twist?**<br/> 
+I began my professional adventure as a teacher, bringing knowledge to eager minds. <br/>
+From there, I took a surprising leap into the realm of Quality Assurance (QA), ensuring the seamless functionality of digital creations. <br/> 
+Now, I've evolved into a dynamic Full Stack Developer,  <br/> merging my diverse experiences to craft innovative solutions and bring ideas to life! 🚀👩‍💻📚
+
 </div>
+
+
+
