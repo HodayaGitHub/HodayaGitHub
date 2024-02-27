@@ -9,7 +9,7 @@
 🌍 **Journey** - a web application and online marketplace that seamlessly connects travelers with unique accommodations, providing a diverse range of lodging options hosted by individuals from around the world. [Journey (airbnb)](https://journey-ek1u.onrender.com/)
 <br/>
 
-🧸 **Shop World** - a handcrafted experience built entirely from scratch, harmonizing robust frontend with backend excellence. Powered by MongoDB and adorned with the versatility of React, my digital haven promises a delightful journey for every visitor. [Shop World](https://mrtoy-m60g.onrender.com/)
+🛒 **Shop World** - a handcrafted experience built entirely from scratch, harmonizing robust frontend with backend excellence. Powered by MongoDB and adorned with the versatility of React, my digital haven promises a delightful journey for every visitor. [Shop World](https://mrtoy-m60g.onrender.com/)
 <br/>
 
 📧 **Appsus** - combines Gmail for communication, Note for quick notes, and Books for managing your reading list in a single, streamlined platform, simplifying your daily productivity. [Appsus (Gmail,Note,Books)](https://hodayagithub.github.io/Appsus/)
