@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, World! I'm Hodaya 👋<br/>A passionate Full-Stack developer ✨
+# Hello, World! I'm Hodaya <img src=https://github.com/HodayaGitHub/HodayaGitHub/assets/110330009/ecd6acad-bea2-4db6-a4b7-2662c6afe1bd width="35" height="35"/><br/>A passionate Full-Stack developer ✨
 
 
 <div align="left"">
